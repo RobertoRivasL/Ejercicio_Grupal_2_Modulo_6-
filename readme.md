@@ -68,3 +68,35 @@ https://myhanoli.com/2018/08/11/como-crear-un-provecto-web-con-maven-desde-eclip
 
 https://www.viafirma.com/blog-xnoccio/es/guia-de-migracion-de-proyectos-java-a-maven/
 
+
+1 Realice una compilación del proyecto.
+
+![Texto Descripción generada
+automáticamente](./image1.png)
+
+
+2 Siga los pasos indicados en el texto guía para la generación del
+ejecutable del proyecto (eneste caso un archivo WAR).
+
+![Captura de pantalla de computadora Descripción generada
+automáticamente](./image2.png)
+
+
+3 Finalmente haga una limpieza del proyecto.
+
+![Texto Descripción generada
+automáticamente](./image3.png)
+
+
+4 Formulario de capacitación.
+
+
+![Interfaz de usuario gráfica, Aplicación Descripción generada
+automáticamente](./image4.png)
+
+
+5 Lista capacitación
+
+![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
+automáticamente](./image5.png)
+
